@@ -1,4 +1,4 @@
-# React Confirm Email
+# Email Confirmation
 
 ```
 cd email-confirmation/client
